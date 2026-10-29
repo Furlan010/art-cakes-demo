@@ -1,0 +1,1 @@
+Todos os arquivos deste pacote devem ser enviados para a pasta principal do repositório GitHub. Não envie o ZIP inteiro. Esta versão usa caminhos planos para funcionar com o upload pelo celular.
